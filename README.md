@@ -13,7 +13,13 @@ In this project, we will be exploring the relationship between car components of
 ----
 # Data Sourcing
 
+The 'cartype.csv' dataset was sourced from the Kaggle database through the project lead. The Attributes/Features of the dataset can be categozied in three different sections.
 
+The first section contains about three to five columns highliting the basic components of different car brands such as transmission type, number of gears, number of cylinders, engine size, alongside the carlines and manufacturers, all which can be regarded as the independent variables.
+
+The second section of the dataset feature contains the town and highway fuel efficiency measurement of these carlines across various car manufacturers.
+
+The third section of the dataset contains the town and highway carbon emission rate of these carlines from different manufacturers.
 
 ----
 # Data Transformation
