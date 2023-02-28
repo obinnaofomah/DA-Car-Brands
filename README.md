@@ -1,4 +1,5 @@
-# Project Name: DA-Car-Brands
+# Project Name: DA-Car-Brands.
+The project seeks to statiscially analyze the fuel efficiency and carbon emissions of different carlines and manufacturers
 
 
 ----
