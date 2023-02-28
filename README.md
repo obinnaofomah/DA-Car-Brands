@@ -24,6 +24,7 @@ The third section of the dataset contains the town and highway carbon emission r
 
 ----
 # Data Transformation
+The data transformation and analysis was carried out using the Python libraries such as Pandas, Numpy and Matplotlib. The detailed description of the dataset transformation and analysis can be found in the attached python notebook. 
 
 
 
