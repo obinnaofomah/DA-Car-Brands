@@ -1,6 +1,6 @@
 # Project Name: DA-Car-Brands.
 The project seeks to statiscially analyze the fuel efficiency and carbon emissions of different carlines and manufacturers
-![alt text](https://cdn.globalcarsbrands.com/wp-content/uploads/2013/08/car-brands.jpg "Car Brands Logo")
+![alt text](https://cdn.globalcarsbrands.com/wp-content/uploads/2021/12/Austrian-car-brands.jpg "Car Brands Logo")
 
 ----
 # Problem Statement
